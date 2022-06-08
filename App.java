@@ -16,7 +16,7 @@ public class App {
             System.out.println();
 
             double result = 0;
-            double num1 = getDouble("Enter the first number: ");
+            double num1 = getDouble("Enter the first number, DO IT NOW!: ");
             double num2 = getDouble("Enter the second number: ");
 
             switch (operation) {
